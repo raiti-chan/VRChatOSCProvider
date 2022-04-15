@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRChatOSCProvider", "VRChatOSCProvider\VRChatOSCProvider.csproj", "{FDCC9D7A-5CCA-4CAA-AC6C-59EEE4D3E793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSC.NET", "OSC.NET\OSC.NET.csproj", "{14BED6FA-AAD6-4EFA-99D8-CA12F057646E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSC.NET-Test", "OSC.NET-Test\OSC.NET-Test.csproj", "{718BA46A-8081-4B4E-A525-DEEBE039A064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{9E7742C5-721E-4EBC-8788-C822971A49DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDCC9D7A-5CCA-4CAA-AC6C-59EEE4D3E793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCC9D7A-5CCA-4CAA-AC6C-59EEE4D3E793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCC9D7A-5CCA-4CAA-AC6C-59EEE4D3E793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCC9D7A-5CCA-4CAA-AC6C-59EEE4D3E793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BED6FA-AAD6-4EFA-99D8-CA12F057646E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BED6FA-AAD6-4EFA-99D8-CA12F057646E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BED6FA-AAD6-4EFA-99D8-CA12F057646E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BED6FA-AAD6-4EFA-99D8-CA12F057646E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718BA46A-8081-4B4E-A525-DEEBE039A064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718BA46A-8081-4B4E-A525-DEEBE039A064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718BA46A-8081-4B4E-A525-DEEBE039A064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718BA46A-8081-4B4E-A525-DEEBE039A064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7742C5-721E-4EBC-8788-C822971A49DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7742C5-721E-4EBC-8788-C822971A49DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7742C5-721E-4EBC-8788-C822971A49DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7742C5-721E-4EBC-8788-C822971A49DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FCDD06F-6B13-4346-A36E-56ADFDB89635}
+	EndGlobalSection
+EndGlobal
